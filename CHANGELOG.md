@@ -37,12 +37,18 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Added escape methods to more-info (attribute description) (#495)
 - Inheritance task in components (#501)
 - Mobile menu custom_url template (#472)
+- Checkout cart icon hover style (#504)
+- Checkout - apply gift card styles (#508)
+- Checkout - cart link styles (#507)
+- Checkout - "Ship to" and "Shipping method" edit icons styles (#505)
+- Checkout recaptcha checkbox visibility (#506)
 ### Changed
 - Changed and improved GDPR cookie module behavior (#400)
 - Checkout summary "View Details" styling (#498)
 ### Updated
 - Performance & quality improvements (#474)
 ### Removed
+- Redundant EE store switcher (#503)
 
 ## [Released]
 ## [2.25.1] - 2021-11-30
