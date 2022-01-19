@@ -1,11 +1,9 @@
-// Mixins
-@import '../Snowdog_Components/components/styles/mixins';
-
 // Variables
 @import '../Snowdog_Components/components/Atoms/variables/variables';
 
 // Components
 @import '../Snowdog_Components/components/styles/critical';
+@import '../Magento_Theme/styles/module-critical';
 
 // Hide non-critical sections, before loading full stylesheet
 .page-main,
