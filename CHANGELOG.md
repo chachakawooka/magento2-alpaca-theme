@@ -47,6 +47,7 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Recently Viewed - temporary wishlist button fix (#511)
 - Store Locator - Location View - "Additional Information" section display (#512)
 - Side menu close button position & text on hover (#513)
+- Side menu close button position on Safari (#513)
 ### Changed
 - Changed and improved GDPR cookie module behavior (#400)
 - Checkout summary "View Details" styling (#498)
