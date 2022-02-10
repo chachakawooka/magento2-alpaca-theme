@@ -54,7 +54,7 @@
 @import '../Organisms/order-summary/order-summary';
 @import '../Organisms/quantity-update/quantity-update';
 
-// Organisms - Checkouts componets
+// Organisms - Checkouts components
 @import '../Organisms/checkout/actions-toolbar/actions-toolbar';
 @import '../Organisms/checkout/authentication/authentication';
 @import '../Organisms/checkout/credit-card/credit-card';
@@ -71,3 +71,6 @@
 @import '../Templates/checkout/checkout';
 @import '../Templates/cart/discount';
 @import '../Templates/success-page/success-page';
+
+// Helpers
+@import '../Atoms/atomic/atomic';
