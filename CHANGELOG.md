@@ -54,8 +54,10 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Magento Gift Card - missing required sign & validation messages (#515)
 - Dashboard -> Privacy Settings - html in content doesn't render (#516)
 - Dashboard -> My Orders - table row overflows table on mobile (#516)
-- fix Success page styles after Performance & quality improvements (#517)
 - styles loaded in fractal for checkout related components (#520)
+- Fotorama - 'exit fullscreen' click triggers event on element below (#521)
+- Checkout success page and multishipping styles after performance & quality improvements (#517)
+- Shopping cart - quantity not visible when quantity error message is displayed (#522)
 ### Changed
 - Changed and improved GDPR cookie module behavior (#400)
 - Checkout summary "View Details" styling (#498)
