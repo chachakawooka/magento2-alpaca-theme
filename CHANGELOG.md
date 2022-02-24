@@ -61,13 +61,18 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Shopping cart - quantity not visible when quantity error message is displayed (#522)
 - configurable product price related issues - price not displayed when a configurable product doesn't have swatches, final price displayed as special in red when selected option doesn't have old price but some other options do, jumping price on load (use `opacity-0` instead of `display-none`) (#525)
 - configurable product select field width changing on load (#525)
+- Amasty Gift Card form validation on PDP (#526)
+- `.label` extends (#526)
 ### Changed
+- MQ values for picture aspect ratio padding (#86854)
 - Changed and improved GDPR cookie module behavior (#400)
 - Checkout summary "View Details" styling (#498)
 - Refactor and improve yotpo styles (#485)
 - Atomic styles import placement from critical styles to the end of non critical (#519)
 ### Updated
 - Performance & quality improvements (#474)
+- Amasty Gift Card to `2.8.0` (#526)
+- Amasty Gift Card Account to `1.4.0` (#526)
 ### Removed
 - Redundant EE store switcher (#503)
 
