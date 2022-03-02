@@ -64,6 +64,7 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Amasty Gift Card form validation on PDP (#526)
 - `.label` extends (#526)
 - spacing between Magento UI form element and its error message (#527)
+- catalog list view - add to cart button changing width when text is changed to "Adding..." (#529)
 ### Changed
 - MQ values for picture aspect ratio padding (#86854)
 - Changed and improved GDPR cookie module behavior (#400)
