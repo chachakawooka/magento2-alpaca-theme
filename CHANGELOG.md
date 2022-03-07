@@ -67,6 +67,7 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - catalog list view - add to cart button changing width when text is changed to "Adding..." (#529)
 - catalog list view - add to cart button display on mobile (#528)
 - PDP - not working Yotpo button "Write a review" under the product's name (#530)
+- Wishlist item update loses selected options in wishlist (#533)
 ### Changed
 - MQ values for picture aspect ratio padding (#86854)
 - Changed and improved GDPR cookie module behavior (#400)
