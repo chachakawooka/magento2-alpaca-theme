@@ -7,6 +7,15 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 
 ## [Unreleased]
 ### Added
+### Changed
+### Fixed
+- passing all properties when adding product to wishlist (#88178)
+### Removed
+### Updated
+
+## [Released]
+## [2.26.0] - 2022-03-10
+### Added
 - In-store pickup components (#82620)
 - Missing classes to home, product-view and catalog pages (#84674)
 - Conditional rendering in footer.hbs (#84599)
@@ -80,8 +89,6 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Amasty Gift Card Account to `1.4.0` (#526)
 ### Removed
 - Redundant EE store switcher (#503)
-
-## [Released]
 ## [2.25.1] - 2021-11-30
 ### Fixed
 - Remote shopping assistance on account creation (#83738)
