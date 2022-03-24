@@ -7,10 +7,12 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 
 ## [Unreleased]
 ### Added
+- New config options for Modal (closeOnEsc, closeOnBackdrop)
 ### Changed
 ### Fixed
-- passing all properties when adding product to wishlist (#88178)
+- passing all properties when adding product to wishlist (#534)
 ### Removed
+- unnecessary !important flags (#537)
 ### Updated
 
 ## [Released]
@@ -25,7 +27,6 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Checkbox 'link-checked' variant (#492)
 - option to remove Qty input and update button from minicart in Admin > Store > Configuration > Snowdog > Alpaca General > Mini Cart > Qty Update Disabled (#486)
 - missing store pickup style imports (#520)
-- New config options for Modal (closeOnEsc, closeOnBackdrop)
 ### Fixed
 - Display error message - phone number field (#83240)
 - Webform checkboxes inline style & Department select on Contact Page (#83891)
