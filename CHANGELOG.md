@@ -7,10 +7,12 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 
 ## [Unreleased]
 ### Added
+- Missing arguments in layout for multishipping address (#541)
 - New config options for Modal (closeOnEsc, closeOnBackdrop)
 ### Changed
 ### Fixed
 - passing all properties when adding product to wishlist (#534)
+- minicart - "See Details" dropdown JS init (#88897)
 ### Removed
 - unnecessary !important flags (#537)
 ### Updated
