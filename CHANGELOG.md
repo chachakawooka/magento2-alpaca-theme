@@ -14,6 +14,7 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - passing all properties when adding product to wishlist (#534)
 - minicart - "See Details" dropdown JS init (#88897)
 - Misaligned contact bar (#542)
+- Wrong display of discount amount in order summary on review & payments page (#540)
 ### Removed
 - unnecessary !important flags (#537)
 ### Updated
