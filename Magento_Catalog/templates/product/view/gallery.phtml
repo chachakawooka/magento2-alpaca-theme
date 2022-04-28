@@ -45,7 +45,6 @@ $imageHeight = $block->getImageAttribute('product_page_image_medium', 'height');
         aria-live="polite"
         aria-label="<?= $block->escapeHtmlAttr(__('Do not refresh the page')); ?>"
     >
-        <div class="loader__icon"></div>
         <img
             alt="<?= $mainImage ? $block->escapeHtmlAttr($mainImage->getData('label')) : 'placeholder'; ?>"
             class="
@@ -54,6 +53,7 @@ $imageHeight = $block->getImageAttribute('product_page_image_medium', 'height');
             "
             src="<?= /* @noEscape */ $mainImageData ?>"
             loading="eager"
+            fetchpriority="high"
         />
     </div>
 </div>
