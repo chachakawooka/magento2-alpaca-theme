@@ -10,14 +10,17 @@ USE GITHUB ISSUE/PULL REQUEST NUMBERS, NOT INTERNAL ONE
 - Missing arguments in layout for multishipping address (#541)
 - New config options for Modal (closeOnEsc, closeOnBackdrop)
 ### Changed
+- LCP image loading on PDP for performance (#543)
 ### Fixed
 - passing all properties when adding product to wishlist (#534)
 - minicart - "See Details" dropdown JS init (#88897)
 - Misaligned contact bar (#542)
 - Wrong display of discount amount in order summary on review & payments page (#540)
 - fotorama.js and magnifier.js magepack errors fixes (#544)
+- checkout - shipping method item error display (#85516)
 ### Removed
 - unnecessary !important flags (#537)
+- elasticsuite footer (#549)
 ### Updated
 
 ## [Released]
